@@ -9,6 +9,10 @@ Currently my expertise consists of:
 C#
 HTML and CSS
 
+You can contact me in:<br>
+sephirous33@gmail.com <br>
+<a href="https://www.linkedin.com/in/toni-salminen-7b51a3222/">My Linkedin</a>
+
 <!---
 ToniJSalminen/ToniJSalminen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
